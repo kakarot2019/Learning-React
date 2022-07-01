@@ -1,3 +1,4 @@
+//this contains info about the data
 const emojipedia = [
   {
     id: 1,
